@@ -1,11 +1,11 @@
-<h1>Hi, I'm Elvis, an end-to-end data analytics professional! </h1>
+<h1>Hi, I am Sarah a cybersecurity analyst</h1>
  <p> Business-oriented analytics professional with over 4 years of experience using data analytics to drive business decisions. Currently pursuing a master's degree in Business Analytics at Wake Forest University and hoping to work in the Financial or retail sector as a data scientist or in other analytics-related roles </p>
  <br/>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Cutting down the rate of non-funded donation projects using machine learning](https://github.com/graphshade/donorschoose.git)
+  - [Autonating tasks using python](https://github.com/MsAfua/My-Incident-Handler-Journal)
   - [Improving the Prediction of Property Assessed Value](https://github.com/graphshade/boston_house.git)
   - [Serving Fake News Detection Model Using Flask](https://github.com/graphshade/fake_news_detection.git)
 
