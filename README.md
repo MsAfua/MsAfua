@@ -1,5 +1,5 @@
 <h1>Hi, I am Sarah a cybersecurity analyst</h1>
- <p> Business-oriented analytics professional with over 4 years of experience using data analytics to drive business decisions. Currently pursuing a master's degree in Business Analytics at Wake Forest University and hoping to work in the Financial or retail sector as a data scientist or in other analytics-related roles </p>
+ <p> Biomedical engineer and a trained cybersecurity analyst with expertise in incident handling, programming and using SIEM tools to detect, manage and respond to security events </p>
  <br/>
 
 <h2>👨‍💻 Projects:</h2>
